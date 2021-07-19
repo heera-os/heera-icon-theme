@@ -3,5 +3,5 @@ project(heera-icon-theme)
 
 include(FeatureSummary)
 
-install(DIRECTORY Crule DESTINATION /usr/share/icons)
-install(DIRECTORY Crule-dark DESTINATION /usr/share/icons)
+install(DIRECTORY heera DESTINATION /usr/share/icons)
+
