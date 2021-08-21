@@ -1,6 +1,6 @@
 # HEERA ICON THEME
 
-**heera** is an SVG icon theme directly based on [kora icon theme](https://github.com/bikass/kora) for Heera os.
+**heera** is an SVG icon theme mixed with [kora icon theme](https://github.com/bikass/kora) and [Reversal icon theme](https://github.com/yeyushengfan258/Reversal-icon-theme)  for Heera os.
 
 
 
